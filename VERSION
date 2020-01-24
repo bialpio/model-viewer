@@ -1,0 +1,39 @@
+commit 992faddcbb1c0fc9d665ff6a3d352c92cc7b047e
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Jan 24 10:08:15 2020 -0800
+
+    New example (#941)
+    
+    * added mrdoob's example
+    
+    * updated models
+    
+    * updated style
+    
+    * added poster generation
+    
+    * added TS script
+    
+    * fixed and moved TS
+    
+    * tester TS works
+    
+    * added more configuration
+    
+    * added test
+    
+    * added zipped gltf support
+    
+    * adding missing docs
+    
+    * fixed skybox loading
+    
+    * minor cleanup
+    
+    * fixed first file bug
+    
+    * fixed multifile support
+    
+    * addressing feedback
+    
+    * fixing legacy
